@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_nave_links",
+  "info": {
+    "displayName": "NaveLink",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "collectionName": "taha1391nnns",
+  "info": {
+    "singularName": "taha1391nnn",
+    "pluralName": "taha1391nnns",
+    "displayName": "taha1391nnn"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "taha": {
+      "type": "string"
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "price": {
+      "type": "biginteger"
+    },
+    "what": {
+      "type": "blocks"
+    }
+  }
+}
